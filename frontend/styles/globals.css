@@ -1,0 +1,40 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+}
+
+.content{
+  left: 15rem;
+  position: absolute;
+}
+
+.content-wrap{
+  margin: 10px;
+}
+
+h3{
+  color: #14538d;
+  margin-left: 3rem;
+}
+
+h1{
+  color: #14538d;
+  border-bottom:solid #14538d;
+  width: 20rem;
+  text-align: center;
+}

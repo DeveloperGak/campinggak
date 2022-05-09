@@ -1,0 +1,29 @@
+.table{
+    width: 700px;
+    margin-top: 1rem;
+    border-collapse: collapse;
+    border-radius: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+}
+.tr{
+    border-collapse: collapse;
+    border-radius: 2px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: lightgray;
+    text-align: center;
+}
+
+.thead{
+    margin: 3px;
+}
+
+.th{
+    padding: 1rem;
+}
+
+.td{
+    padding: 3px;
+}
